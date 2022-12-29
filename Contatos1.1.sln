@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contatos1.1", "Contatos1.1\Contatos1.1.csproj", "{39D55047-2201-4019-9D45-C93EE96F2237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D55047-2201-4019-9D45-C93EE96F2237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D55047-2201-4019-9D45-C93EE96F2237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D55047-2201-4019-9D45-C93EE96F2237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D55047-2201-4019-9D45-C93EE96F2237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853D70A8-5F97-4E9F-875E-8E70CE78D56F}
+	EndGlobalSection
+EndGlobal
